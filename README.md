@@ -13,6 +13,16 @@ Using bower:
 ```bash
 $ bower install axios
 ```
+Using exress:
+
+```bash
+$ npm install express
+```
+Using ejs:
+
+```bash
+$ npm install ejs
+```
 
 Using yarn:
 
