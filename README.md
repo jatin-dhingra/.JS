@@ -13,6 +13,7 @@ Using bower:
 ```bash
 $ bower install axios
 ```
+
 Using exress:
 
 ```bash
@@ -22,6 +23,11 @@ Using ejs:
 
 ```bash
 $ npm install ejs
+```
+Using UUID:
+
+```bash
+$ npm i uuid
 ```
 
 Using yarn:
